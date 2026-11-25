@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
 import 'app_binding.dart';
 import 'presentation/pages/home_screen.dart';
 
